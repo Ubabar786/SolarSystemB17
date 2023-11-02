@@ -19,5 +19,13 @@ public class main {
         xaros.name="nehaio";
         xaros.colour="blue";
         xaros.size="32432432324324km";
+
+        //***Planet1***
+        Planet1 plato=new Planet1();
+        plato.colour="green";
+        plato.name="abracadabra";
+        plato.temp="100000000k";
+        plato.radius="800000km";
+
     }
 }
